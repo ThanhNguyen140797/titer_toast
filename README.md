@@ -13,5 +13,11 @@
 import TiterToast from 'react-native-titer-toast';
 
 // TODO: What to do with the module?
-TiterToast;
+<TouchableNativeFeedback
+  onPress={()=>{
+    TiterToast.show("Your Test with duration: 1000", 1000)
+  }}
+  >
+  <Text>Click here</Text>
+</TouchableNativeFeedback>
 ```
