@@ -8,7 +8,7 @@
 
 `$ npm install react-native-titer-toast --save`
 
-# with Yarn
+-- use yarn
 `$ yarn add react-native-titer-toast`
 
 ## Usage
