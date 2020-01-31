@@ -2,11 +2,14 @@
 
 ## Getting started
 
+
+
+### Installation
+
 `$ npm install react-native-titer-toast --save`
 
-### Mostly automatic installation
-
-`$ react-native link react-native-titer-toast`
+# with Yarn
+`$ yarn add react-native-titer-toast`
 
 ## Usage
 ```javascript
